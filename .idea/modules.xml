@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/hellospring.iml" filepath="$PROJECT_DIR$/.idea/hellospring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/apicocktails.iml" filepath="$PROJECT_DIR$/.idea/apicocktails.iml" />
     </modules>
   </component>
 </project>
